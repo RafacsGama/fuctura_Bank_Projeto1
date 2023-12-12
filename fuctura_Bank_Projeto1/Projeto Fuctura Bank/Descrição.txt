@@ -1,0 +1,9 @@
+<h1>Projeto de Banco do Curso de Full Stack Java.</h1>
+Este projeto consiste em um sistema bancário com cinco classes e uma 
+classe de teste, onde implementei a programação orientada a objetos
+visando concluir o primeiro módulo do curso de java da Escola Fuctura de
+Tecnologia.
+Seguindo instruções para a criação do projeto. 
+Os requisitos do projeto eram voltados para a implementação dos estudos em 
+Programação orientada a objetos, bem como os estudos dos fundamentos da linguagem Java. 
+Utilizei o IDE Eclipse para desenvolver o projeto.
